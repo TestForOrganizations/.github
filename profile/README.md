@@ -27,7 +27,7 @@ IRC 기반의 실시간 소켓 통신 프로그램입니다.
 
 ## 📝 이슈 작성 가이드
 
-- [커밋 메시지 가이드](./docs/ISSUE_CONVENTION.md)
+- [이슈 메시지 가이드](./docs/ISSUE_CONVENTION.md)
 
 ## 🌿 브랜치 명명 규칙
 
