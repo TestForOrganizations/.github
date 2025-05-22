@@ -34,12 +34,12 @@ IRC 기반의 실시간 소켓 통신 프로그램입니다.
 ## 🌿 브랜치 명명 규칙
 
 브랜치는 작업 내용을 대표하는 **기능 단위 이름**으로 작성해 주세요.  
-가능한 경우 **PascalCase** 사용을 권장합니다.
+이름의 의미 구분은 -(하이폰)으로 부탁드립니다.
 
 ### ✅ 브랜치 예시
 
-- `socket listen`
-- `client server connect`
+- `socket-listen`
+- `client-server-connect`
 
 ---
 
