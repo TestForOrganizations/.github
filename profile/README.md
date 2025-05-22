@@ -51,7 +51,7 @@ IRC 기반의 실시간 소켓 통신 프로그램입니다.
 
 ## 🧹 코드 컨벤션
 
-- [코드 메시지 가이드](./docs/CODE_CONVENTION.md)
+- [코드 컨벤션 가이드](./docs/CODE_CONVENTION.md)
 
 ---
 
